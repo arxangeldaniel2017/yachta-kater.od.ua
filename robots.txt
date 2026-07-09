@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yachta-kater.od.ua/sitemap.xml
